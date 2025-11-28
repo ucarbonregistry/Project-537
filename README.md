@@ -1,6 +1,25 @@
 # Project-537
 Water Credit Project by NSL Koppa Unit, Karnataka, India
 
+This project activity is a water conservation project spread across 103 acres (41.68 Ha) of area
+registered under UWR with Project ID 537 under the Koppa unit of NSL Sugars Ltd. which is
+located in Mandya district, Karnataka, India.
+
+The project activity mainly includes two RoU scopes: -
+
+RoU Scope 2: Measures for conservation and storage of unutilized water for future
+requirements including freshwater ecosystems and wetlands - It covers the conservation
+of rooftop rainwater and surface runoff for future use by NSL Koppa unit.
+
+RoU Scope 5: Conservation measures taken to recycle and/or reuse water, spentwash,
+wastewater etc. across or within specific industrial processes and systems, including
+wastewater recycled/ reused in a different process, but within the same site or location of
+the project activity. Recycled wastewater used in off-site landscaping, gardening or tree
+plantations/forests activity are also eligible under this Scope- It covers the treatment of
+wastewater through an Effluent Treatment Plant (ETP) in sugar and distillery unit. Also
+includes the implementation and reuse of hot condensate water in sugar distillery plant
+which enhances water security by reducing dependency on freshwater sources.
+
 UWR RoU Scope: 2 & 5
 
 Monitoring Period: 01/01/2014 - 31/12/2024
